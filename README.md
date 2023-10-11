@@ -8,4 +8,4 @@ Java Development Kit (JDK).
 Apache Kafka is installed and running on your local machine.
 ```
 ## Set Up Kafka Locally
-Kafka Set Up [https://kafka.apache.org/quickstart]
+[Kafka Set Up] (https://kafka.apache.org/quickstart)
