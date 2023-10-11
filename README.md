@@ -1,6 +1,7 @@
 # Spring-Boot-Kafka-Example
 Demo project for Spring Boot And Kafka
-Read the detailed article here [Apache Kafka with Spring Boot: A Beginner's Guide](https://medium.com/@reetesh043/jooq-a-quick-guide-to-sql-querying-in-java-36e29406b7c6).
+
+#### Read the detailed article here [Apache Kafka with Spring Boot: A Beginner's Guide](https://medium.com/@reetesh043/jooq-a-quick-guide-to-sql-querying-in-java-36e29406b7c6).
 
 
 ## Prerequisites
